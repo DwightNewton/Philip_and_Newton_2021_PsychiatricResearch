@@ -1,5 +1,6 @@
 # Philip_and_Newton_2021_PsychiatricResearch
-Analytical code used in the publication: Transcriptional markers of excitation-inhibition balance in germ-free mice show region-specific dysregulation and rescue after bacterial colonization. Available at: https://doi.org/10.1016/j.jpsychires.2021.01.021
+Analytical code used in the publication: Transcriptional markers of excitation-inhibition balance in germ-free mice show region-specific dysregulation and rescue after bacterial colonization.
+Available at: https://doi.org/10.1016/j.jpsychires.2021.01.021
 
 Analyses shown for all brain regions largely, some scripts only for hippocampus.
 Raw data provided in /Data directory.
