@@ -6,4 +6,6 @@ Analyses and Visualizations
 * Post-hoc Bonferroni-corrected t-tests
 * Heatmap and boxplot matrices visualizing changes
 * Principle component analysis and 3D plotting
-* Co-expression analysis and module preservation analysis
+* Co-expression analysis, module preservation analysis, export to Cytoscape for visualization
+
+
