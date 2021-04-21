@@ -6,7 +6,7 @@ Raw data provided in /Data directory.
 
 Guide to scripts for analysis and visualizations
 1. `<ANOVAs and heatmaps.R>`
-   * One-way ANOVAs, with Bonferroni-corrected *post-hoc* t-tests
+   * One-way ANOVAs (significant at 10% FDR), with Bonferroni-corrected *post-hoc* t-tests
    * Heatmap and boxplot matrices visualizing changes
 
 2. `<PCA and 3D plotting>`
