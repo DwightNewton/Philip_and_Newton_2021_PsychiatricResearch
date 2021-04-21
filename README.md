@@ -10,11 +10,15 @@ Guide to scripts for analysis and visualizations
    * Heatmap and boxplot matrices visualizing changes
 
 2. `<PCA and 3D plotting>`
-
+  * Principle component analysis and 3D plotting
+ 
 3. `<WGCNA module generation and export.R>`
+  * Data QC, pre-analytical steps, and generation of modules with weighted gene co-expression analysis (WGCNA)
+  * Data export for permutation testing and visualization in Cytoscape
 
-4. `<
-* Principle component analysis and 3D plotting
-* Co-expression analysis, module preservation analysis, export to Cytoscape for visualization
-
-
+4. `<WGCNA permutation testing.R>`
+  * Permutation testing of observed differences in module composition usign permutation testing
+  * Performed between all groups
+ 
+5. `<preservation p-value meta-analysis.R>`
+  * Resolving module-level preservation statistics to group-level statistics
